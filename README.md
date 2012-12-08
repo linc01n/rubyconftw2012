@@ -65,8 +65,7 @@ thegiive: Puppet, the next level deploy system on all platform
 
 Joseph Ku: RubyMotion: Hack Your iOS App Like Never Before
 
-Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
-
+[Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code](https://speakerdeck.com/eddie/may-the-source-be-with-you)
 
 ryudoawaru: Concurrency Model for huge MySQL data processing
 
