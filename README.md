@@ -15,7 +15,7 @@ Matz: Keynote
 
 jserv: 在自動控制領域應用微型 Ruby
 
-nomadcoder: Modular web-apps with Rails, Sencha Ext JS, and Netzke
+[nomadcoder: Modular web-apps with Rails, Sencha Ext JS, and Netzke](http://netzke-rubyconf-taiwan-2012.herokuapp.com/)
 [website](http://netzke.org/)
 
 [godfat: Concurrent Ruby Application Servers](http://www.godfat.org/slide/2012-12-07-concurrent.pdf)
