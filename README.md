@@ -72,6 +72,7 @@ ryudoawaru: Concurrency Model for huge MySQL data processing
 
 Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
 
+pct: Rails 完全新手，一星期也能刻出的 rails3-template
 
 [Jia Hen Tee: Angular JS with rails](http://angular-taiwan.herokuapp.com)
 
