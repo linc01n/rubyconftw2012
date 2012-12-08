@@ -42,6 +42,8 @@ Shinya Tsunematsu: Building production server environment of ruby in modern way
 
 Sebastian Korfmann: Koi Deploy
 
+[Sebastian Burkhard: RubyJS: Programming Ruby in Javascript](https://speakerdeck.com/hasclass/rubyjs-at-rubyconf-dot-tw)
+
 Tim Oxley: TJ Holowaychuk's Component system
 
 
@@ -70,7 +72,6 @@ ryudoawaru: Concurrency Model for huge MySQL data processing
 
 Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
 
-Sebastian Burkhard: RubyJS: Programming Ruby in Javascript
 
 [Jia Hen Tee: Angular JS with rails](http://angular-taiwan.herokuapp.com)
 
