@@ -79,7 +79,7 @@ Christophe Vilayphiou: An Open CMS with MongoDB
 
 YC Ling: 淺談 Ruby Process Fork 應用
 
-Sgar Wang: Integration with salesforce.com
+[Sgar Wang: Integration with salesforce.com](https://speakerdeck.com/sgarwang/integration-with-salesforce-dot-com)
 
 [Dale Ma: Build your own web scraper](https://speakerdeck.com/eguitarz/ruby-conf-tw-2012-build-your-own-web-scrapper)
 
