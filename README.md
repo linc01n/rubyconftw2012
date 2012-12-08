@@ -72,7 +72,7 @@ Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
 
 Sebastian Burkhard: RubyJS: Programming Ruby in Javascript
 
-Jia Hen Tee: Angular JS with rails
+[Jia Hen Tee: Angular JS with rails](http://angular-taiwan.herokuapp.com)
 
 Christophe Vilayphiou: An Open CMS with MongoDB
 
