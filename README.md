@@ -59,7 +59,7 @@ Day2
 
 [Gosuke Miyashita: Inside Sqale's Backend](http://www.slideshare.net/mizzy/inside-sqales-backend-at-rubyconf-taiwan-2012)
 
-Richard Lee: Ruby Toolbox for DevOps
+[Richard Lee: Ruby Toolbox for DevOps](https://speakerdeck.com/dlackty/ruby-toolbox-for-devops)
 
 thegiive: Puppet, the next level deploy system on all platform
 
