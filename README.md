@@ -67,7 +67,7 @@ thegiive: Puppet, the next level deploy system on all platform
 
 [Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code](https://speakerdeck.com/eddie/may-the-source-be-with-you)
 
-ryudoawaru: Concurrency Model for huge MySQL data processing
+[ryudoawaru: Concurrency Model for huge MySQL data processing](http://www.slideshare.net/ryudoawaru/concurrency-model-for-mysql-data-processingrubyconftw-2012)
 
 [Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API](https://speakerdeck.com/vonstark/enable-high-coucurrent-and-availability-with-goliath)
 
