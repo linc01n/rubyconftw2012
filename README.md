@@ -53,7 +53,7 @@ Day2
 
 [Koichi Sasada: (Implementation Details of Ruby 2.0 VM).succ](http://www.atdot.net/~ko1/activities/rubyconf.tw2012_ko1.pdf)
 
-Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
+[Hiroshi SHIBATA: How to discover the Ruby's defects with web application.](https://speakerdeck.com/hsbt/how-to-discover-the-rubys-defects-with-web-application)
 
 [Gosuke Miyashita: Inside Sqale's Backend](http://www.slideshare.net/mizzy/inside-sqales-backend-at-rubyconf-taiwan-2012)
 
