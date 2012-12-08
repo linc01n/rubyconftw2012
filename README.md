@@ -55,7 +55,7 @@ Day2
 
 Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
 
-Gosuke Miyashita: Inside Sqale's Backend
+[Gosuke Miyashita: Inside Sqale's Backend](http://www.slideshare.net/mizzy/inside-sqales-backend-at-rubyconf-taiwan-2012)
 
 Richard Lee: Ruby Toolbox for DevOps
 
