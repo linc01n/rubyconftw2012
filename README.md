@@ -63,7 +63,7 @@ Richard Lee: Ruby Toolbox for DevOps
 
 thegiive: Puppet, the next level deploy system on all platform
 
-Joseph Ku: RubyMotion: Hack Your iOS App Like Never Before
+[Joseph Ku: RubyMotion: Hack Your iOS App Like Never Before](https://speakerdeck.com/joseph/rubymotion-hack-your-ios-app-like-never-before)
 
 [Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code](https://speakerdeck.com/eddie/may-the-source-be-with-you)
 
