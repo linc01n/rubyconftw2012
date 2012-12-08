@@ -82,6 +82,7 @@ YC Ling: 淺談 Ruby Process Fork 應用
 Sgar Wang: Integration with salesforce.com
 
 Dale Ma: Build your own web scraper
+[slides on speaker deck](http://bit.ly/VpAuij)
 
 Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發
 
