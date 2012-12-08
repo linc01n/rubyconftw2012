@@ -32,7 +32,7 @@ nomadcoder: Modular web-apps with Rails, Sencha Ext JS, and Netzke
 
 Masayoshi Takahashi & Yamane: mruby
 
-Kentaro Kuribayashi: Living on the Edge Rails
+[Kentaro Kuribayashi: Living on the Edge Rails](https://speakerdeck.com/kentaro/living-on-the-edge-rails)
 
 Kensuke Nagae: Introducing nonopaste-cli
 
