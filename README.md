@@ -20,8 +20,7 @@ nomadcoder: Modular web-apps with Rails, Sencha Ext JS, and Netzke
 
 [godfat: Concurrent Ruby Application Servers](http://www.godfat.org/slide/2012-12-07-concurrent.pdf)
 
-Akira Matsuda: Ruby 2.0: New Features
-https://speakerdeck.com/a_matsuda/ruby-2-dot-0-new-features
+[Akira Matsuda: Ruby 2.0: New Features](https://speakerdeck.com/a_matsuda/ruby-2-dot-0-new-features)
 
 [xdite: Bootstrappers, how to write you own apps generator](https://speakerdeck.com/xdite/writing-your-own-apps-generator)
 
@@ -39,8 +38,7 @@ Kensuke Nagae: Introducing nonopaste-cli
 
 Shinya Tsunematsu: Building production server environment of ruby in modern way
 
-[Yohei YASUKAWA: Introducing Remote Pair Programming in Okinawa.rb
-](https://speakerdeck.com/yasulab/introducing-remote-pair-programming-in-okinawa-dot-rb)
+[Yohei YASUKAWA: Introducing Remote Pair Programming in Okinawa.rb](https://speakerdeck.com/yasulab/introducing-remote-pair-programming-in-okinawa-dot-rb)
 
 Sebastian Korfmann: Koi Deploy
 
@@ -53,8 +51,7 @@ Day2
 [Freedom: 從一個業餘 Smalltalk programmer 的觀點看 Ruby 的 object model 和 bytecode](http://www.slideshare.net/kstan2/smalltalk-and-ruby-20121208-15542185)
 
 
-[Koichi Sasada: (Implementation Details of Ruby 2.0 VM).succ
-](http://www.atdot.net/~ko1/activities/rubyconf.tw2012_ko1.pdf)
+[Koichi Sasada: (Implementation Details of Ruby 2.0 VM).succ](http://www.atdot.net/~ko1/activities/rubyconf.tw2012_ko1.pdf)
 
 Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
 
