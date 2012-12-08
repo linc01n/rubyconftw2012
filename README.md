@@ -69,7 +69,7 @@ thegiive: Puppet, the next level deploy system on all platform
 
 ryudoawaru: Concurrency Model for huge MySQL data processing
 
-Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
+[Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API](https://speakerdeck.com/vonstark/enable-high-coucurrent-and-availability-with-goliath)
 
 pct: Rails 完全新手，一星期也能刻出的 rails3-template
 
