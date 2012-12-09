@@ -3,6 +3,7 @@ rubyconftw2012
 
 RubyConf TW 2012 Presentation Slides and Resources
 
+[ihower: RubyConf Taiwan 2012 Opening & Closing](http://www.slideshare.net/ihower/rubyconf-taiwan-2012-opening-closing)
 
 Day1
 ====
