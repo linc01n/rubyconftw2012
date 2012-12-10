@@ -35,7 +35,7 @@ Masayoshi Takahashi & Yamane: mruby
 
 [Kentaro Kuribayashi: Living on the Edge Rails](https://speakerdeck.com/kentaro/living-on-the-edge-rails)
 
-Kensuke Nagae: Introducing nonopaste-cli
+[Kensuke Nagae: Introducing nonopaste-cli](https://speakerdeck.com/kyanny/introducing-nonopaste-cli-number-rubyconftw2012)
 
 Shinya Tsunematsu: Building production server environment of ruby in modern way
 
