@@ -41,7 +41,7 @@ Shinya Tsunematsu: Building production server environment of ruby in modern way
 
 [Yohei YASUKAWA: Introducing Remote Pair Programming in Okinawa.rb](https://speakerdeck.com/yasulab/introducing-remote-pair-programming-in-okinawa-dot-rb)
 
-Sebastian Korfmann: Koi Deploy
+[Sebastian Korfmann: Koi Deploy](http://skorfmann.github.com/hackathons/)
 
 [Sebastian Burkhard: RubyJS: Programming Ruby in Javascript](https://speakerdeck.com/hasclass/rubyjs-at-rubyconf-dot-tw)
 
