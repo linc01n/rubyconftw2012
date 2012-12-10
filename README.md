@@ -86,6 +86,6 @@ YC Ling: 淺談 Ruby Process Fork 應用
 
 [Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發](https://speakerdeck.com/trisix/lightning-talk-ruby-toolbox-for-ios-developer)
 
-shelling: webapp 的分散式儲存方案
+[shelling: webapp 的分散式儲存方案](https://speakerdeck.com/shelling/distributed-storage-for-web-applications)
 
 [何澤清: Extend rails application by rails engine](https://speakerdeck.com/tsechingho/extend-rails-application-by-rails-engine)
