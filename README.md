@@ -88,4 +88,4 @@ YC Ling: 淺談 Ruby Process Fork 應用
 
 shelling: webapp 的分散式儲存方案
 
-何澤清: Extend rails application by rails engine
+[何澤清: Extend rails application by rails engine](https://speakerdeck.com/tsechingho/extend-rails-application-by-rails-engine)
