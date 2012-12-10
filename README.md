@@ -78,7 +78,7 @@ pct: Rails 完全新手，一星期也能刻出的 rails3-template
 
 Christophe Vilayphiou: An Open CMS with MongoDB
 
-YC Ling: 淺談 Ruby Process Fork 應用
+[YC Ling: 淺談 Ruby Process Fork 應用](http://www.slideshare.net/miaout17/ruby-process-fork)
 
 [Sgar Wang: Integration with salesforce.com](https://speakerdeck.com/sgarwang/integration-with-salesforce-dot-com)
 
