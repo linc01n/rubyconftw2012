@@ -84,7 +84,7 @@ YC Ling: 淺談 Ruby Process Fork 應用
 
 [Dale Ma: Build your own web scraper](https://speakerdeck.com/eguitarz/ruby-conf-tw-2012-build-your-own-web-scrapper)
 
-Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發
+[Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發](https://speakerdeck.com/trisix/lightning-talk-ruby-toolbox-for-ios-developer)
 
 shelling: webapp 的分散式儲存方案
 
