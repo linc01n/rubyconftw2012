@@ -48,13 +48,13 @@ Masayoshi Takahashi & Yamane: mruby
 
 [Kentaro Kuribayashi: Living on the Edge Rails](https://speakerdeck.com/kentaro/living-on-the-edge-rails)
 
-Kensuke Nagae: Introducing nonopaste-cli
+[Kensuke Nagae: Introducing nonopaste-cli](https://speakerdeck.com/kyanny/introducing-nonopaste-cli-number-rubyconftw2012)
 
 Shinya Tsunematsu: Building production server environment of ruby in modern way
 
 [Yohei YASUKAWA: Introducing Remote Pair Programming in Okinawa.rb](https://speakerdeck.com/yasulab/introducing-remote-pair-programming-in-okinawa-dot-rb)
 
-Sebastian Korfmann: Koi Deploy
+[Sebastian Korfmann: Koi Deploy](http://skorfmann.github.com/hackathons/)
 
 [Sebastian Burkhard: RubyJS: Programming Ruby in Javascript](https://speakerdeck.com/hasclass/rubyjs-at-rubyconf-dot-tw)
 
@@ -102,14 +102,14 @@ pct: Rails 完全新手，一星期也能刻出的 rails3-template
 
 Christophe Vilayphiou: An Open CMS with MongoDB
 
-YC Ling: 淺談 Ruby Process Fork 應用
+[YC Ling: 淺談 Ruby Process Fork 應用](http://www.slideshare.net/miaout17/ruby-process-fork)
 
 [Sgar Wang: Integration with salesforce.com](https://speakerdeck.com/sgarwang/integration-with-salesforce-dot-com)
 
 [Dale Ma: Build your own web scraper](https://speakerdeck.com/eguitarz/ruby-conf-tw-2012-build-your-own-web-scrapper)
 
-Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發
+[Anderson Lin: Ruby Toolbox For iOS developer: 運用Ruby-based的工具加速iOS行動應用開發](https://speakerdeck.com/trisix/lightning-talk-ruby-toolbox-for-ios-developer)
 
-shelling: webapp 的分散式儲存方案
+[shelling: webapp 的分散式儲存方案](https://speakerdeck.com/shelling/distributed-storage-for-web-applications)
 
-何澤清: Extend rails application by rails engine
+[何澤清: Extend rails application by rails engine](https://speakerdeck.com/tsechingho/extend-rails-application-by-rails-engine)
